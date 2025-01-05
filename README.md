@@ -1,2 +1,2 @@
-# GOOLD-ROCK
+# GOLDEN-ROCK
 Technologe
